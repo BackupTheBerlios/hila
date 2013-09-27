@@ -1,0 +1,10 @@
+Hakemistot (sisältävät moduulien lähdekoodit)
+
+asennusohjeet
+c
+csharp
+java
+lueminut.txt
+php
+sql
+tools kansio aputyökalujen lähdekoodille, esim testidatan generointiin jne
